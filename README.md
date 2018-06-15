@@ -1,12 +1,10 @@
-# Razzle x After.js
+# Razzle & After.js & Ant desing
 
 ## How to use
 
-Download the example [or clone the whole project](https://github.com/jaredpalmer/razzle.git):
+git clone git@github.com:ejoc/razzle-with-after-antd.git
 
-```bash
-curl https://codeload.github.com/jaredpalmer/razzle/tar.gz/master | tar -xz --strip=2 razzle-master/examples/with-afterjs
-cd with-afterjs
+cd razzle-with-after-antd
 ```
 
 Install it and run:
