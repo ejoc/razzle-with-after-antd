@@ -2,8 +2,9 @@
 
 ## How to use
 
-git clone git@github.com:ejoc/razzle-with-after-antd.git
 
+```bash
+git clone git@github.com:ejoc/razzle-with-after-antd.git
 cd razzle-with-after-antd
 ```
 
